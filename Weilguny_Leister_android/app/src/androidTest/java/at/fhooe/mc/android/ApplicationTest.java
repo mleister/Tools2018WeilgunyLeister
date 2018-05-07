@@ -13,6 +13,7 @@ public class ApplicationTest extends ApplicationTestCase<Application> {
     }
 
     public void thisIsANewMethod() {
+	Völlig neue Zeile Code
 	Log.d("New line!", "In Methode.");
 	int variable = 5;
     }
