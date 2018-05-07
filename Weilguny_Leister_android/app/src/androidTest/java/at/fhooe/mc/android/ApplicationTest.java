@@ -1,4 +1,4 @@
-package at.fhooe.mc.android;
+﻿package at.fhooe.mc.android;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
@@ -15,7 +15,7 @@ public class ApplicationTest extends ApplicationTestCase<Application> {
     public void thisIsANewMethod() {
 	Völlig neue Zeile Code
 	Log.d("New line!", "In Methode.");
-	int variable = 5;
+	int variable = 4;
         Bugfix Line 1
         Bugfix Line 2
         Bugfix Line 3
