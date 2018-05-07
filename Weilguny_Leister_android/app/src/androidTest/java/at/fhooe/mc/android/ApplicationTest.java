@@ -17,5 +17,6 @@ public class ApplicationTest extends ApplicationTestCase<Application> {
 	int variable = 5;
         Bugfix Line 1
         Bugfix Line 2
+        Bugfix Line 3
     }
 }
