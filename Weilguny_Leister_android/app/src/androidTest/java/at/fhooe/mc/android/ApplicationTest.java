@@ -16,5 +16,6 @@ public class ApplicationTest extends ApplicationTestCase<Application> {
 	Log.d("New line!", "In Methode.");
 	int variable = 5;
         Bugfix Line 1
+        Bugfix Line 2
     }
 }
