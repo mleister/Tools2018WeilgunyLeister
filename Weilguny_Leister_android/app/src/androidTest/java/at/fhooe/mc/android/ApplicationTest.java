@@ -12,5 +12,7 @@ public class ApplicationTest extends ApplicationTestCase<Application> {
 		Log.d("New line!", "Git Test");
     }
 
-    public void thisIsANewMethod() { }
+    public void thisIsANewMethod() {
+	Log.d("New line!", "In Methode.");
+    }
 }
