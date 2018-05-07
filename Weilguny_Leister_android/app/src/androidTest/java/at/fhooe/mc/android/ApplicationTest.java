@@ -16,4 +16,8 @@ public class ApplicationTest extends ApplicationTestCase<Application> {
 	Log.d("New line!", "In Methode.");
 	int variable = 5;
     }
+	
+	public void AnotherNewMethod() {
+	Log.d("New Method!", "In Methode.");
+    }
 }
