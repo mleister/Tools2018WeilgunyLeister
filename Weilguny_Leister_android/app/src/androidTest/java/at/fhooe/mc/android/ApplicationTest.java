@@ -16,6 +16,9 @@ public class ApplicationTest extends ApplicationTestCase<Application> {
 	Völlig neue Zeile Code
 	Log.d("New line!", "In Methode.");
 	int variable = 5;
+        Bugfix Line 1
+        Bugfix Line 2
+        Bugfix Line 3
     }
 	
 	public void AnotherNewMethod() {
