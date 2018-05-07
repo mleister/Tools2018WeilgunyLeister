@@ -1,0 +1,12 @@
+
+# Created by https://www.gitignore.io/api/java
+
+### Java ###
+# Compiled class file
+*.class
+
+# Generated files
+bin/
+gen/
+
+# End of https://www.gitignore.io/api/java
