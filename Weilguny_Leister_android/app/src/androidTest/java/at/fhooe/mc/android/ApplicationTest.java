@@ -19,5 +19,6 @@ public class ApplicationTest extends ApplicationTestCase<Application> {
 	
 	public void AnotherNewMethod() {
 	Log.d("New Method!", "In Methode.");
+	Methode war noch nicht fertig
     }
 }
